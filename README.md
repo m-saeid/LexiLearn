@@ -1,8 +1,4 @@
 # LexiLearn
-LexiLearn :)
-
-
-Here’s a project description you can give to your students:  
 
 ---
 
